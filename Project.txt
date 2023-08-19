@@ -1,0 +1,2 @@
+Create a Python Program which will send an Happy Birthday text to your on their Birth Date using your email.
+Try to automate the process by using Task Scheduler on Windows or use https://www.pythonanywhere.com
